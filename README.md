@@ -20,6 +20,9 @@ The LinkedIn Auto-Reply Extension is a productivity tool designed to streamline 
 - Then test and generate auto-reply
 
 # Demo 
-[![Watch the video](https://raw.githubusercontent.com/krishna9786/LinkedIn-Reply/main/path/to/thumbnail.jpg)](https://github.com/krishna9786/LinkedIn-Reply/blob/main/video.mp4)
+## Demo Video
+
+[Watch the video](https://github.com/krishna9786/LinkedIn-Reply/blob/main/video.mp4)
+
 
 
