@@ -9,16 +9,16 @@ The LinkedIn Auto-Reply Extension is a productivity tool designed to streamline 
 # Tech Stack
 - React: For building a dynamic and responsive user interface.
 - Tailwind CSS: For styling the extension with a modern, utility-first approach.
-- Plasmo: For creating the Chrome extension framework.
-- JavaScript/TypeScript: For the core functionality and logic of the extension.
+- Plasmo: This is used to create the Chrome extension framework.
+- JavaScript/TypeScript: This is for the core functionality and logic of the extension.
 
 # To run the code
 - Download the Repo
 - run npm install
 - npm run build
-- Go to crome extentions and toggle developers mode then unpack the build file which contains the manifest file
-- Then test and generate auto reply
+- Go to Chrome extensions and toggle developers mode then unpack the build file which contains the manifest file
+- Then test and generate auto-reply
 
 # Demo 
-[![Watch the video](https://raw.githubusercontent.com/krishna9786/LinkedIn-Reply/main/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/krishna9786/LinkedIn-Reply/Screen Recording 2024-10-13 at 11.18.31 AM.mov)
+[![Watch the video](https://raw.githubusercontent.com/krishna9786/LinkedIn-Reply/video.mp4)](https://raw.githubusercontent.com/krishna9786/LinkedIn-Reply/video.mp4)
 
